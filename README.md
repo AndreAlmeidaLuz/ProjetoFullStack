@@ -10,6 +10,5 @@ Projeto criado a partir do protótipo feito.
 - Teste Rotas: Insomnia
 - Prototipo: AdobeXD.
 
-- Framework: 
-    FrontEnd: ReactJs, React Native;
-    BackEnd: NodeJs.
+- FrontEnd: ReactJs, React Native;
+- BackEnd: NodeJs.
